@@ -23,6 +23,24 @@ Run these from your VS terminal.
 ```
 git clone https://github.com/your-username/local-rag-assistant.git
 cd local-rag-assistant
-
 ```
-*  Create and activate a virtual environment
+*  Create and activate a virtual environment :
+```
+py -3.13 -m venv rag_env
+rag_env\Scripts\activate
+```
+* Install dependencies :
+```
+pip install -r requirements.txt
+```
+If requirements.txt is missing, you can use:
+```
+pip install shiny langchain langchain-community chromadb ollama pymupdf pillow tesseract python-docx
+```
+* Install and run Ollama (for Phi-3 Mini) :
+If not already installed:
+Download Ollama and install from [here](https://ollama.com/download)
+Open terminal and run:
+
+
+
