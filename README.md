@@ -55,9 +55,9 @@ Phi-3 Mini is a 3.8B parameter model optimized for reasoning and instruction fol
  * Use the Reset button before every new query to clear the state.
 
 ## Example Use Cases
-*Extract key data from research papers or reports
-*Ask questions about legal, medical, or policy documents
-*Summarize or find answers in scanned physical forms
+* Extract key data from research papers or reports
+* Ask questions about legal, medical, or policy documents
+* Summarize or find answers in scanned physical forms
 
 ## License
 MIT – Use it freely, privately, and locally.
