@@ -44,6 +44,7 @@ Open terminal and run:
 ```
 ollama run phi3:mini
 ```
+## Test the app using the test.txt file in Documents folder
 ### Supported File Types - pdf – Including scanned documents (OCR), docx – Word files and txt – Plain text
 
 ## Model: Phi-3 Mini
