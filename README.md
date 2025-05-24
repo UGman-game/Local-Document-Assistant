@@ -44,7 +44,7 @@ Open terminal and run:
 ```
 ollama run phi3:mini
 ```
-### Supported File Types - .pdf – Including scanned documents (OCR), .docx – Word files, .txt – Plain text
+### Supported File Types - pdf – Including scanned documents (OCR), docx – Word files and txt – Plain text
 
 
 
