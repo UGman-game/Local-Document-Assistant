@@ -1,0 +1,11 @@
+langchain-community
+langchain
+chromadb
+ollama
+flask
+shiny
+shinywidgets
+pymupdf
+pillow
+tesseract
+python-docx
