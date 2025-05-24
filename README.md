@@ -41,6 +41,11 @@ pip install shiny langchain langchain-community chromadb ollama pymupdf pillow t
 If not already installed:
 Download Ollama and install from [here](https://ollama.com/download)
 Open terminal and run:
+```
+ollama run phi3:mini
+```
+### Supported File Types - .pdf – Including scanned documents (OCR), .docx – Word files, .txt – Plain text
+
 
 
 
