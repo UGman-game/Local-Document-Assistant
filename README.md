@@ -46,6 +46,21 @@ ollama run phi3:mini
 ```
 ### Supported File Types - pdf – Including scanned documents (OCR), docx – Word files and txt – Plain text
 
+## Model: Phi-3 Mini
+Phi-3 Mini is a 3.8B parameter model optimized for reasoning and instruction following. This app uses the Ollama runtime to serve it locally.
+
+## Tips & Troubleshooting
+ * Ask questions after uploading a document and seeing ✅ Document processed....
+ * For OCR to work, [Tesseract](https://github.com/tesseract-ocr/tesseract) must be installed and in your system path.
+ * Use the Reset button before every new query to clear the state.
+
+## Example Use Cases
+*Extract key data from research papers or reports
+*Ask questions about legal, medical, or policy documents
+*Summarize or find answers in scanned physical forms
+
+## License
+MIT – Use it freely, privately, and locally.
 
 
 
