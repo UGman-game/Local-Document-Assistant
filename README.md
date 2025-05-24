@@ -18,3 +18,11 @@ A lightweight local Retrieval-Augmented Generation (RAG) application built with 
 
 Follow these steps to install and run the app in your own system without internet access.
 Run these from your VS terminal.
+
+*  Clone this repository :
+```
+git clone https://github.com/your-username/local-rag-assistant.git
+cd local-rag-assistant
+
+```
+*  Create and activate a virtual environment
