@@ -13,3 +13,8 @@ A lightweight local Retrieval-Augmented Generation (RAG) application built with 
 ✅ Simple, interactive Shiny-based UI
 
 ✅ Completely offline, privacy-friendly assistant
+
+## Quickstart Guide
+
+Follow these steps to install and run the app in your own system without internet access.
+Run these from your VS terminal.
