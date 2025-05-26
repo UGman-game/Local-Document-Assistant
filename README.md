@@ -16,6 +16,11 @@ A lightweight local Retrieval-Augmented Generation (RAG) application built with 
 
 ## Quickstart Guide
 
+### Pre-install :
+* Python 3.13
+* Ollama
+* Visual Studio Code or any IDE with terminal
+
 Follow these steps to install and run the app in your own system without internet access.
 Run these from your VS terminal.
 
